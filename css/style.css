@@ -1,0 +1,47 @@
+
+#main {
+    padding: 10px;
+}
+
+.legend rect {
+    stroke: #555;
+}
+
+.legend text {
+    font-family: "Open Sans";
+    font-size: 12px;
+    fill: #555;
+}
+
+.background {
+    fill: #eee;
+}
+
+circle.more {
+	fill: #2e5d90;
+	opacity: 0.5;
+}
+
+circle.less {
+	fill: #499936;
+	opacity: 0.5;
+}
+
+text.scatterLabel {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	opacity: 0.5;
+
+}
+
+text.yLabel {
+	font-family: sans-serif;
+	font-size: 80%;
+	opacity: 0.7;
+}
+
+text.xLabel {
+	font-family: sans-serif;
+	font-size: 90%;
+	opacity: 0.7;
+}
